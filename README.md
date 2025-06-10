@@ -1,4 +1,4 @@
-# Wave Function Collapse Terrain Generator 🟩🟦🟨🟥
+# Wave Function Collapse Terrain Generator 🧩🟩🟦🟨🟥🧩
 
 This project is a simple 2D terrain generator using the **Wave Function Collapse** algorithm.  
 It creates a procedurally generated map made of tile images based on adjacency constraints which are hard coded.
