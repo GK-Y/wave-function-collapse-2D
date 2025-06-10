@@ -18,8 +18,7 @@ Built as a learning experiment to understand how WFC works in Python and how it 
 
 ## How to Run:
 
-1. Install required libraries: 
-*pip install pillow*
+1. Install required libraries: `pip install pillow`
 
 2. Make sure your image tiles are located correctly (adjust paths in `renderer.py` if needed, the tiles have been provided in `Tiles` folder).
 
