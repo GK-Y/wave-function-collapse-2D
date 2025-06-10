@@ -31,17 +31,17 @@ tileMap = {
 chaosGrid = []
 entropyPocket = ['g','w','s','r','l']
 tileProb={
-    'g':['g','w'],
-    'w':['s','w','g'],
-    's':['w','s'],
+    'g':['g','w','s'],
+    'w':['w','g'],
+    's':['s','g','r'],
     'r':['r','l','s'],
     'l':['l','r'],
 }
 
 #control valves
 size = 50 #size is length of map 
-startPoint = [2,2]
-startTile = 'g'
+startPoint = [10,10]
+startTile = 'r'
 
 #initializer
 wfc.inputArray(chaosGrid,entropyPocket,size)
